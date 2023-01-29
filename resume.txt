@@ -5,3 +5,7 @@ Salary 15000
 Location: Xyz
 
 Location: Xyz
+Name: xyz
+Degree: Bachelors
+Salary: 18000
+Loation: xyzzzz
