@@ -1,6 +1,7 @@
-Name: xyz12
-Degree: Masters12
-Salaray: 1400022
-Designation: TL12
-Shifts: General2
+Name: abc4
+Degree: Masters24
+Salary 15000
 
+Location: Xyz
+
+Location: Xyz
